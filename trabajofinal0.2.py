@@ -56,3 +56,6 @@ print ("SUELDO BÁSICO.....:", bo.msueldo(tr.cat))
 print ("DESCUENTO TARDANZA: ""{:.2f}".format(bo.mtar(bo.tardanza)))
 print ("PAGOS HORAS EXTRAS: " "{:.2f}".format(bo.mhoraex(bo.hx, bo.cat)))
 print ("SUELDO NETO.......: ""{:.2f}".format (bo.msldneto()))
+
+
+
